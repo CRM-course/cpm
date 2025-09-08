@@ -20,7 +20,7 @@ CPM automates package installation, version pinning, and virtual environment set
 Clone your repo and make the script executable:  
 
 ```bash
-git clone (https://github.com/CRM-course/cpm.git)
+git clone https://github.com/CRM-course/cpm.git
 cd cpm
 chmod +x cpm.sh
 ```
